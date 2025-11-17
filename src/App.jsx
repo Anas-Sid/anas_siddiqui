@@ -7,9 +7,10 @@ function App() {
   return (
     <Router>
       <Routes>
+
         {/* <Route path="/LPortfolio" element={<FullPortfolio />} /> */}
         <Route path="/project/:id" element={<ProjectDetail />} />
-        <Route path="/portfolio" element={<Lighttheme />} />
+        <Route path="/" element={<Lighttheme />} />
       </Routes>
     </Router>
   );
