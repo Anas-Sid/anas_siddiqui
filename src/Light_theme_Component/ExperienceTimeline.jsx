@@ -2,21 +2,21 @@ import React from "react";
 
 const experiences = [
   {
-    company: "IIFA Tech",
-    role: "MERN Stack Intern",
-    time: "April 2025 – Present",
-    description: "Built full-stack apps with React, Node.js, and MongoDB. Led UI/UX design for invoice tools and dashboards.",
+    company: "Zentix Stack",
+    role: "Associate Software Engineer",
+    time: "July 2025 – Present",
+    description: "Developed frontend for web applications and backend for bots, web platforms, and mobile apps efficiently",
   },
   {
-    company: "BM Global",
-    role: "Frontend Intern",
-    time: "Jan 2025 – March 2025",
-    description: "Created responsive user interfaces using React and Tailwind. Collaborated with developers and learned Git workflow.",
+    company: "IIFA Tech",
+    role: "MERN Stack Intern",
+    time: "March 2025 – June 2025",
+    description: "Built full-stack apps with React, Node.js, and MongoDB. Led UI/UX design for invoice tools and dashboards.",
   },
   {
     company: "Freelance",
     role: "Frontend Developer",
-    time: "2023 – Dec 2024",
+    time: "Dec-2023 – Feb 2025",
     description: "Delivered websites frontend for clients. Built end-to-end features with clean and responsive UI.",
   },
 ];
