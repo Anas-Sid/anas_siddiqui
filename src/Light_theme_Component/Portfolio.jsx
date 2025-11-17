@@ -1,14 +1,11 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 
-import latour from '../assets/Latourimage.jpg';
-import Cooperandkid from '../assets/Cooperandkid.jpg';
-import Algorarose from '../assets/algora.jpg';
-import myhomes from '../assets/myhomes.jpg';
-import health from '../assets/health.jpg';
-import ventme from '../assets/ventme.jpg';
-
-
+import crypto1 from '../assets/Crypto tracker .jpg';
+import project3 from '../assets/project 3.jpg';
+import doc_dash from '../assets/Doctors_dashboard.jpg';
+import bakery from '../assets/Bakery main.jpg';
+import project5 from '../assets/project5.png';
 
 
 const projects = [
@@ -70,7 +67,7 @@ const Portfolio = () => {
   };
 
   return (
-    <section id="projects" className="py-8 px-4 sm:px-2 bg-gray-300">
+    <section id="projects" className="py-20 px-4 sm:px-2 md:px-12 bg-gray-300">
       <div className="text-center mb-16">
         <h2 className="text-3xl font-bold mb-4">Featured Projects</h2>
         <p className="text-gray-800">Some of my best work, showcased cleanly.</p>
