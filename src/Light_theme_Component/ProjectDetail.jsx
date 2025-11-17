@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 // Add more images if availab
@@ -8,27 +7,6 @@ import Algorarose from '../assets/algora.jpg';
 import myhomes from '../assets/myhomes.jpg';
 import health from '../assets/health.jpg';
 import ventme from '../assets/ventme.jpg';
-=======
-import React, { useState } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';// Add more images if available
-import Doctor_Appointment from '../assets/Doctor_Appointment.jpg';
-import Doc_ava from '../assets/Doctor_availability.jpg';
-import doc_dash from '../assets/Doctors_Dashboard.jpg';
-import patient1 from '../assets/Patient Portal 1.jpg';
-import patient2 from '../assets/Patient Portal 2.jpg';
-import pat_book from '../assets/patient_bookappointment.jpg';
-import crypto1 from '../assets/Crypto tracker .jpg';
-import crypto2 from '../assets/Crypto_Real time coin data.jpg';
-import searchbar from '../assets/Working Search bar.jpg';
-import medmatevedio from '../assets/Medmate.mp4';
-import bakeryvedio from '../assets/baker.mp4';
-import project5 from '../assets/project5.png';
-import project5_1 from '../assets/project5_1.png';
-import project5_2 from '../assets/project5_2.png';
-
-
-
->>>>>>> origin/main
 
 // --- Projects array (you can keep this in a separate file) ---
 // NOTE: you can optionally add a `liveUrl` key to any project object to enable the "Visit Live Website" button.
